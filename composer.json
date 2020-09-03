@@ -1,0 +1,24 @@
+{
+    "name": "myf/test",
+    "description": "My First PHP Framework!",
+    "type": "project",
+    "authors": [
+        {
+            "name": "chijiuwang",
+            "email": "chijiuwang@ruijie.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.1@dev"
+    },
+    "autoload": {
+        "classmap": [],
+        "files": [
+            "core/helpers.php"
+        ],
+        "psr-4": {
+            "core\\": "core"
+        }
+    }
+}
