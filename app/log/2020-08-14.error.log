@@ -1,0 +1,216 @@
+[2020-08-14 15:04:31]  [ Route[/controller/fooInfo1] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(131): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(27): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 15:04:31]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(131): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(27): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 15:22:14]  [ Route[/controller/fooInfo1] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 15:22:14]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 15:24:15]  [ Route[/controller/fooInfo1] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 15:24:15]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 15:24:34]  [ Route[/controller/fooInfo1] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 15:24:34]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 08:28:07]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 08:28:39]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 08:29:54]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 08:34:13]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 15:56:21]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 16:04:57]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 16:05:09]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 16:13:28]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 16:26:27]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 16:30:55]  [ Method myTest does not exist ] 
+#0 F:\MyProject\Framework\core\Util\Reflector.php(67): ReflectionClass->getMethod()
+#1 F:\MyProject\Framework\core\Route\Route.php(207): core\Util\Reflector::getClassMethodArgsName()
+#2 F:\MyProject\Framework\core\Route\Route.php(63): core\Route\Route::getActionArgs()
+#3 F:\MyProject\Framework\core\Route\Route.php(47): core\Route\Route::addRoute()
+#4 F:\MyProject\Framework\app\route\web.php(80): core\Route\Route::get()
+#5 F:\MyProject\Framework\core\Application\App.php(64): require_once('F:\\MyProject\\Fr...')
+#6 F:\MyProject\Framework\core\Application\App.php(27): core\Application\App::loadDir()
+#7 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#8 {main} 
+[2020-08-14 16:30:55]  [ Method myTest does not exist ] 
+#0 F:\MyProject\Framework\core\Util\Reflector.php(67): ReflectionClass->getMethod()
+#1 F:\MyProject\Framework\core\Route\Route.php(207): core\Util\Reflector::getClassMethodArgsName()
+#2 F:\MyProject\Framework\core\Route\Route.php(63): core\Route\Route::getActionArgs()
+#3 F:\MyProject\Framework\core\Route\Route.php(47): core\Route\Route::addRoute()
+#4 F:\MyProject\Framework\app\route\web.php(80): core\Route\Route::get()
+#5 F:\MyProject\Framework\core\Application\App.php(64): require_once('F:\\MyProject\\Fr...')
+#6 F:\MyProject\Framework\core\Application\App.php(27): core\Application\App::loadDir()
+#7 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#8 {main} 
+[2020-08-14 16:31:50]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 16:35:35]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 16:35:45]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(134): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:01:19]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(137): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:04:32]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(137): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:22:54]  {
+    "type": 8,
+    "message": "Undefined index: message",
+    "file": "F:\\MyProject\\Framework\\core\\Util\\Reflector.php",
+    "line": 24
+} 
+[2020-08-14 17:22:54]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(137): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:23:30]  {
+    "type": 8,
+    "message": "Undefined index: message",
+    "file": "F:\\MyProject\\Framework\\core\\Util\\Reflector.php",
+    "line": 24
+} 
+[2020-08-14 17:23:30]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(137): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:25:34]  {
+    "type": 8,
+    "message": "Undefined index: message",
+    "file": "F:\\MyProject\\Framework\\core\\Util\\Reflector.php",
+    "line": 24
+} 
+[2020-08-14 17:25:34]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(140): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:25:35]  {
+    "type": 8,
+    "message": "Undefined index: message",
+    "file": "F:\\MyProject\\Framework\\core\\Util\\Reflector.php",
+    "line": 24
+} 
+[2020-08-14 17:25:35]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(140): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:25:35]  {
+    "type": 8,
+    "message": "Undefined index: message",
+    "file": "F:\\MyProject\\Framework\\core\\Util\\Reflector.php",
+    "line": 24
+} 
+[2020-08-14 17:25:35]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(140): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:25:37]  {
+    "type": 8,
+    "message": "Undefined index: message",
+    "file": "F:\\MyProject\\Framework\\core\\Util\\Reflector.php",
+    "line": 24
+} 
+[2020-08-14 17:25:37]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(140): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:27:18]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(137): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:31:21]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(137): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:33:10]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(137): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
+[2020-08-14 17:36:00]  [ Route[/favicon.ico] Could not found ] 
+#0 F:\MyProject\Framework\core\Application\App.php(137): core\Route\Route::uriMatch()
+#1 F:\MyProject\Framework\core\Application\App.php(29): core\Application\App::handle()
+#2 F:\MyProject\Framework\index.php(7): core\Application\App::run()
+#3 {main} 
